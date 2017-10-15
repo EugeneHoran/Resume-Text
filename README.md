@@ -12,6 +12,7 @@ Resume Text
 - Github Link: https://github.com/EugeneHoran
 - Stackoverflow Link: https://stackoverflow.com/users/3904085/eugene-h
 
+
 # Experience
 
 ### Position
@@ -62,7 +63,7 @@ Resume Text
 > - Independent research project on the impacts of being raised within Shreevatsa Orphanage.
 > - Taught English to underprivileged children at local schools.
 
-# Skills
+# Technical Skills
 
 ### Operating Systems, Programs and Devices
 - Windows
