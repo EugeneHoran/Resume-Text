@@ -1,7 +1,7 @@
-# Resume-Text
-Resume Text
+# Resume
 
-# General Information
+
+## General Information
 - Name: Eugene J. Horan
 - Email: eh841271@gmail.com
 - Location: 23 Graycrest Ct., Mt Sinai, NY, 117766, US
@@ -12,6 +12,11 @@ Resume Text
 - Github Link: https://github.com/EugeneHoran
 - Stackoverflow Link: https://stackoverflow.com/users/3904085/eugene-h
 
+## Contact References
+- Roshan Polepalli
+> +1 212-489-7914
+- Emmanuel Uwadiegwu
+> +1 347-824-3686
 
 # Experience
 
