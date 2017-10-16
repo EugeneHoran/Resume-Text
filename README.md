@@ -8,7 +8,7 @@
 - Phone: 631-790-5218
 - Career: Android Software Engineer. 
 ### Links (Would like these before experince) 
-- My Resume App Link Download: https://github.com/EugeneHoran/EugeneHoranResume  (I would like this to be very visible. It is a Resume application. It is an alternative to my hard copy resume.)
+- My Resume App Link Download: https://github.com/EugeneHoran/EugeneHoranResume
 - Github Link: https://github.com/EugeneHoran
 - Stackoverflow Link: https://stackoverflow.com/users/3904085/eugene-h
 
@@ -88,7 +88,6 @@
 - XML
 - SQLite
 - RxJava
-> Not so important
 - SQL
 - HTML
 - JavaScript
